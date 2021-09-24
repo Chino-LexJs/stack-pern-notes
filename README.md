@@ -2,6 +2,8 @@
 
 Este stack consta de PostgreSQL, Express, React y Node.js.
 
+![img-proj-01](backend/img-proj-01.png)
+
 ## Acerca del proyecto
 
 Aplicacion de notas sencilla donde distintos usuarios pueden 
