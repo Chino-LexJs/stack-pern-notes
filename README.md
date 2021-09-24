@@ -2,11 +2,11 @@
 
 Este stack consta de PostgreSQL, Express, React y Node.js.
 
-![img-proj-01](backend/2021-09-23 (2).png)
+![img-proj-01](backend/src/01.png)
 
-![img-proj-01](backend/2021-09-23 (4).png)
+![img-proj-01](backend/src/02.png)
 
-![img-proj-01](backend/2021-09-23 (5).png)
+![img-proj-01](backend/src/03.png)
 
 ## Acerca del proyecto
 
